@@ -10,6 +10,7 @@ function Inicio() {
         <button>
           <Link to={`Usestate`}> useState </Link>
         </button>,
+        
         <button>
           <Link to={`Useeffect`}> useEffect </Link>
         </button>,
@@ -23,6 +24,6 @@ function Inicio() {
       </div>
     </header>
   );
-}
+}  
 
 export default Inicio;

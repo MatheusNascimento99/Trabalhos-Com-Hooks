@@ -6,7 +6,7 @@ function Usememo() {
     return (
         <div>
 
-            <button> useMemo</button>
+            usememo
         </div>
     )
 }

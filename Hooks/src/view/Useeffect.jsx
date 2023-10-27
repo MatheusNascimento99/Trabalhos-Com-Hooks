@@ -6,7 +6,7 @@ function Useeffect() {
     return (
         <div>
 
-            <button> Useeffect</button>
+            effect
         </div>
     )
 }

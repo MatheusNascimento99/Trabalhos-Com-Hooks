@@ -3,7 +3,7 @@
 function Usestate() {
     return (
         <div>
-            <button> Usestate</button>
+           state
         </div>
     );
 }

@@ -3,9 +3,9 @@ import ReactDOM from "react-dom/client";
 import "./main.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Usememo from "../src/view/Usememo";
-import Usestate from "../src/view/Usecallback";
+import Usecallback from "../src/view/Usecallback";
 import Useeffect from "../src/view/Useeffect";
-import Usecallback from "../src/view/Usestate";
+import Usestate from "../src/view/Usestate";
 import Inicio from "../src/view/Inicio";
 
 const router = createBrowserRouter([
