@@ -1,4 +1,4 @@
-
+import "../view/Usestate.scss";
 
 function Usestate() {
     return (

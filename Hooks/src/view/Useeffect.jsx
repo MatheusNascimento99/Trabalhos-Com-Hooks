@@ -1,5 +1,5 @@
 
-
+import "../view/Useeffect.scss";
 function Useeffect() {
 
 

@@ -1,4 +1,4 @@
-
+import "../view/Inicio.scss";
 import { Link } from "react-router-dom";
 
 function Inicio() {

@@ -1,4 +1,4 @@
-
+import "../view/Usecallback.scss";
 
 function Usecallback() {
   return (
