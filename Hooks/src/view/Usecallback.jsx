@@ -2,7 +2,7 @@ import "../view/Usecallback.scss";
 
 function Usecallback() {
   return (
-    <div>
+    <div className="cab">
       callback
     </div>
   );

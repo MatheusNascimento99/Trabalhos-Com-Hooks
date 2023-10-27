@@ -4,7 +4,7 @@ function Useeffect() {
 
 
     return (
-        <div>
+        <div className="header">
 
             effect
         </div>

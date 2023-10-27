@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "./main.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Usememo from "../src/view/Usememo";
 import Usecallback from "../src/view/Usecallback";

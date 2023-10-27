@@ -1,10 +1,10 @@
-
+import "../view/Usememo.scss";
 
 function Usememo() {
 
 
     return (
-        <div>
+        <div className="lala">
 
             usememo
         </div>

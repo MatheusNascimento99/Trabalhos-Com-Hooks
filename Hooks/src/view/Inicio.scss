@@ -1,3 +1,69 @@
-*{
-    background-color: rgb(186, 59, 80);
+body {
+    background-color: rgb(186, 157, 241);
 }
+
+.headerI {
+    text-align: center;
+    margin-top: 130px;
+
+
+
+    h1 {
+        font-size: 45px;
+
+
+    }
+
+    button {
+        border: none;
+        font-size: larger;
+        font-size: 40px;
+        text-shadow: 5px 5px 10px black;
+
+        background-color: rgb(186, 157, 241);
+
+    }
+
+}
+
+.headerI section {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+
+
+}
+
+.headerI a {
+    color: rgba(11, 25, 25, 0.789);
+}
+
+.headerI button:hover {
+    transform: translateY(-8px);
+    text-shadow: 5px 5px 10px rgb(240, 190, 90);
+
+}
+
+.effect button:hover {
+    transform: translateY(-8px);
+    text-shadow: 5px 5px 10px rgb(90, 240, 127);
+
+}
+
+#state:hover {
+    transform: translateY(-8px);
+    text-shadow: 5px 5px 10px rgb(240, 90, 202);
+
+}
+
+#effect:hover {
+    transform: translateY(-8px);
+    text-shadow: 5px 5px 10px rgb(90, 240, 127);
+
+}
+
+#cback:hover{
+    transform: translateY(-8px);
+    text-shadow: 5px 5px 10px rgb(97, 90, 240);
+  
+  }

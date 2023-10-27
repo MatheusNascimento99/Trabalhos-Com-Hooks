@@ -2,7 +2,7 @@ import "../view/Usestate.scss";
 
 function Usestate() {
     return (
-        <div>
+        <div className="tri">
            state
         </div>
     );
