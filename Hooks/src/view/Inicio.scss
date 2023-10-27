@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(186, 157, 241);
+    background-color: black;
 }
 
 .headerI {
@@ -10,19 +10,24 @@ body {
 
     h1 {
         font-size: 45px;
-
+        color: aliceblue;
 
     }
 
     button {
-        border: none;
+        border-radius: 50%;
+        box-shadow: 5px 10px #e9d5d5;
         font-size: larger;
-        font-size: 40px;
+        font-size: 35px;
         text-shadow: 5px 5px 10px black;
-
+        padding: 20px;
         background-color: rgb(186, 157, 241);
 
     }
+
+   #state a{
+        background-color: 5px 5px 10px rgb(240, 90, 202);;
+   }
 
 }
 
@@ -36,6 +41,7 @@ body {
 
 .headerI a {
     color: rgba(11, 25, 25, 0.789);
+    text-decoration: none;
 }
 
 .headerI button:hover {
@@ -67,3 +73,5 @@ body {
     text-shadow: 5px 5px 10px rgb(97, 90, 240);
   
   }
+
+  //background-color: rgb(186, 157, 241);

@@ -8,7 +8,7 @@ function Inicio() {
         <h1>VAMOS COMEÇAR! POR FAVOR ACESSE OS TRABALHOS COM HOOKS!!</h1>
       </div>
         <section>
-          <button id="state">
+          <button className="state" id="state">
             <Link to={`Usestate`}> useState </Link>
           </button>
 
