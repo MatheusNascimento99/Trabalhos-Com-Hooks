@@ -20,7 +20,7 @@ function Inicio() {
             <Link to={`Usememo`} id="memo"> useMemo </Link>
           </button>
           <button>
-            <Link to={`Usecallback`}id="cback" >Usecallback</Link>
+            <Link to={`Usereducer`}id="usereduc" >UseReducer</Link>
           </button>
         </section>
     </header>
